@@ -5,6 +5,8 @@ Aplicação console para cálculo do IMC.
 ## Funcionalidades
 
 - Calcula o IMC
+- Informa a classificação IMC do calculo
+- Informa o peso a perder ou ganhar para alcançar o peso ideal 
 
 ## Tecnologias utilizadas
 
